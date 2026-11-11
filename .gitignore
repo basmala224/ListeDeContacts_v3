@@ -1,0 +1,17 @@
+# Android Studio / Gradle
+*.iml
+.gradle/
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+.idea/
+.DS_Store
+
+# SECRETS : ne jamais publier
+local.properties
+secrets.properties
+*.keystore
+*.jks
+google-services.json
